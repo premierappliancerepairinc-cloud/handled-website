@@ -140,6 +140,7 @@ table.compare td:first-child { color: var(--ink); }
 .price-table thead th { background: var(--bg-soft); color: var(--ink); font-weight: 500; }
 
 /* FAQ accordion */
+.faq-list { margin: 1.2em 0; }
 .faq-item { border: 1px solid var(--line); border-radius: var(--radius-sm); margin-bottom: 10px; background: #fff; overflow: hidden; }
 .faq-q {
   width: 100%; text-align: left; background: #fff; border: none; cursor: pointer;
