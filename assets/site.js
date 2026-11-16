@@ -1,4 +1,4 @@
-/* Handled — small shared script: mobile nav + FAQ accordions. Nothing else. */
+/* Nokr — small shared script: mobile nav + FAQ accordions. Nothing else. */
 (function () {
   var toggle = document.querySelector('.nav-toggle');
   var nav = document.querySelector('.site-nav');

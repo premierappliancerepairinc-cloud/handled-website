@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://handledcrm.com/sitemap.xml
+Sitemap: https://getnokr.com/sitemap.xml
