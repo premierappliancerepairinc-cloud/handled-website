@@ -41,6 +41,7 @@ li { margin-bottom: 0.45em; }
 .wrap-narrow { max-width: 760px; margin: 0 auto; padding: 0 20px; }
 .lead { font-size: 1.15rem; color: var(--ink-soft); }
 .small { font-size: 0.9rem; color: var(--muted); }
+.lbl { font-weight: 500; color: var(--ink); }
 .eyebrow { font-size: 0.85rem; letter-spacing: 0.08em; text-transform: uppercase; color: var(--blue); margin: 0 0 0.7em; }
 .liftable {
   background: var(--blue-soft);
